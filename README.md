@@ -14,3 +14,5 @@ Esta linea se hizo desde el codigo nano en Ubuntu
 Esta linea se hizo en visual studio code
 
 Reforzando conocimiento de git en VSC
+
+Cambios para source control
