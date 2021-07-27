@@ -15,7 +15,4 @@ Esta linea se hizo en visual studio code
 
 Reforzando conocimiento de git en VSC
 
-Cambios para source control 
-
-nueva linea
-,l,
+Cambios para source control
